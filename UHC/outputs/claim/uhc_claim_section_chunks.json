@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "MBR-C-26437_UHCG_Expatriate_Insurance_Claim_Form_200914_Editable_section_1",
+    "content": "Section 1\n– Patient Information\nMember ID  \n\t\t\nGroup Number\nName (Last, First, MI) \n  Date of Birth  \n  /  \n  /  \n﻿\n﻿\n (mm/dd/yyyy)\nGender:    Male    Female\nRelationship to Subscriber/Policyholder:    Subscriber/Policyholder    Spouse/Partner    Child    Other Dependent\nPhone Number \n  Email Address\nStreet \n  Town/City\nRegion/State \n  Country \n  Postal Code\nIs the patient covered under another insurance health plan?     Yes    No    If Yes: Name, address and phone number of other insurance carrier:",
+    "metadata": {
+      "insurer": "UnitedHealthcare Global",
+      "document_type": "claim_form",
+      "source_file": "MBR-C-26437_UHCG_Expatriate_Insurance_Claim_Form_200914_Editable.pdf",
+      "source_category": "claim",
+      "section_number": 1,
+      "section_title": "Section 1",
+      "chunk_type": "claim_form_section",
+      "region_scope": "global",
+      "korea_applicability": "conditional",
+      "language": "en",
+      "claim_deadline_days": 365,
+      "requires_invoice_or_receipt": true
+    }
+  },
+  {
+    "chunk_id": "MBR-C-26437_UHCG_Expatriate_Insurance_Claim_Form_200914_Editable_section_2",
+    "content": "Section 2\n– Reimbursement Options\n(Visit myuhc.com to verify and securely update your banking and currency preference.)\nNote: If no selection is made, reimbursement will be via a U.S. dollar check.\nUse previously provided banking details*    Payment by check (U.S. dollars only)    Electronic funds transfer payment\nOne time reimbursement request (policy holder and dependents 18 years of age older)\n*Please check current payment preference on file prior to selection\nBank Name \n  Account Name/Payee\nBank Branch Address\nLocal ID or Passport (as applicable) \n  SWIFT/BIC Code \n  IBAN\nBeneficiary Bank Routing/Sort Code \n  Account Number\nWould you like to keep the banking details above on file for future reimbursements? (This option is only available to policy holders.)     Yes    No",
+    "metadata": {
+      "insurer": "UnitedHealthcare Global",
+      "document_type": "claim_form",
+      "source_file": "MBR-C-26437_UHCG_Expatriate_Insurance_Claim_Form_200914_Editable.pdf",
+      "source_category": "claim",
+      "section_number": 2,
+      "section_title": "Section 2",
+      "chunk_type": "claim_form_section",
+      "region_scope": "global",
+      "korea_applicability": "conditional",
+      "language": "en",
+      "claim_deadline_days": 365,
+      "requires_invoice_or_receipt": true
+    }
+  },
+  {
+    "chunk_id": "MBR-C-26437_UHCG_Expatriate_Insurance_Claim_Form_200914_Editable_section_3",
+    "content": "Section 3\n– Claim Information\nProvider/Facility Name\nProvider/Facility Full Address\nProvider Phone Number \n  Email Address\nWhere did the treatment take place?  City \n  Country\nType of Treatment\nDiagnosis/Description of Illness  \nor Accident\nDate of Service \n(mm/dd/yy)\nAmount Billed\nCurrency\nAre the services provided related to an accident?     Yes    No\n(mm/dd/yyyy)\nType of Accident    Work    Auto    Other \n  Date of Accident  \n  /  \n  /  \n﻿\n﻿\nI authorize my physician to release medical information and records necessary to process this claim.\n(mm/dd/yyyy)\nSIGN\nSignature \n  Date  \n  /  \n  /  \n﻿\n﻿\nPatient Signature (or Legal Representative)\nBy signing below, I am stating that the information above is correct. Any person who knowingly files a statement of claim containing any \nmisrepresentation or any false, incomplete or misleading information, may be guilty of a criminal act punishable under law and may be subject  \nto civil penalties.\nSIGN\nSignature\nPrint Name\nMember/Legal Guardian\nSignature of Minor Member or Member’s Representative\nRelationship to Member\nDate  \n  /  \n  /  \n﻿\n﻿\n  (mm/dd/yyyy)\nPlease maintain a copy of this document for your records.\n© 2026 United HealthCare Services, Inc. All Rights Reserved. Insurance coverage provided by or through UnitedHealthcare Insurance Company or its \naffiliates. Administrative services provided by United HealthCare Services, Inc. or their affiliates.  \n04/26  MBR-C-26437",
+    "metadata": {
+      "insurer": "UnitedHealthcare Global",
+      "document_type": "claim_form",
+      "source_file": "MBR-C-26437_UHCG_Expatriate_Insurance_Claim_Form_200914_Editable.pdf",
+      "source_category": "claim",
+      "section_number": 3,
+      "section_title": "Section 3",
+      "chunk_type": "claim_form_section",
+      "region_scope": "global",
+      "korea_applicability": "conditional",
+      "language": "en",
+      "claim_deadline_days": 365,
+      "requires_invoice_or_receipt": true
+    }
+  },
+  {
+    "chunk_id": "MBR-EXP-1694500-CF Dental Only Member Claim Form_230201_HRPrint_section_1",
+    "content": "Section 1\n– Patient information\nMember ID\nGroup number\nName (Last, First, MI)\nDate of birth (mm/dd/yyyy)\nGender:  \n  Male  \n  Female\nRelationship to subscriber/policyholder  \n  Subscriber/policyholder  \n  Spouse/partner  \n  Child  \n  Other dependent\nPhone number\nEmail address\nStreet\nTown/city\nRegion/state\nCountry\nPostal code\nIs the patient covered under another insurance health plan?  \n  Yes  \n  No \nIf Yes: Name, address and phone number of other insurance carrier\ncontinued",
+    "metadata": {
+      "insurer": "UnitedHealthcare Global",
+      "document_type": "claim_form",
+      "source_file": "MBR-EXP-1694500-CF Dental Only Member Claim Form_230201_HRPrint.pdf",
+      "source_category": "claim",
+      "section_number": 1,
+      "section_title": "Section 1",
+      "chunk_type": "claim_form_section",
+      "region_scope": "global",
+      "korea_applicability": "conditional",
+      "language": "en",
+      "claim_deadline_days": 365,
+      "requires_invoice_or_receipt": true
+    }
+  },
+  {
+    "chunk_id": "MBR-EXP-1694500-CF Dental Only Member Claim Form_230201_HRPrint_section_2",
+    "content": "Section 2\n– Member reimbursement options\nNote: If no selection is made, reimbursement will be via a U.S. dollar check.\nUse previously provided banking details  \n  Payment by check (U.S. dollars only)  \n  Electronic funds transfer payment\nOne time reimbursement request (policyholder and dependents 18 years of age older)\nBank name\nAccount name/payee\nBank branch address\nLocal ID or passport (as applicable)\nSWIFT/BIC code\nIBAN\nBeneficiary bank routing/sort code\nAccount number\nWould you like to keep the banking details above on file for future reimbursements? \n(This option is only available to policyholders.)   \n  Yes   \n  No",
+    "metadata": {
+      "insurer": "UnitedHealthcare Global",
+      "document_type": "claim_form",
+      "source_file": "MBR-EXP-1694500-CF Dental Only Member Claim Form_230201_HRPrint.pdf",
+      "source_category": "claim",
+      "section_number": 2,
+      "section_title": "Section 2",
+      "chunk_type": "claim_form_section",
+      "region_scope": "global",
+      "korea_applicability": "conditional",
+      "language": "en",
+      "claim_deadline_days": 365,
+      "requires_invoice_or_receipt": true
+    }
+  },
+  {
+    "chunk_id": "MBR-EXP-1694500-CF Dental Only Member Claim Form_230201_HRPrint_section_3",
+    "content": "Section 3\n– Claim information\nProvider/facility name\nProvider/facility full address\nProvider phone number\nEmail address\nWhere did the treatment take place? City\nCountry\nType of treatment\nDiagnosis/description of illness \nor accident\nDate of service\n(mm/dd/yy)\nAmount billed\nCurrency\nAre the services provided related to an accident?  \n  Yes  \n  No\nType of accident  \n  Work  \n  Auto  \n  Other\nDate of accident (mm/dd/yyyy)\nI authorize my physician to release medical information and records necessary to process this claim.\nSignature\nDate (mm/dd/yyyy)\nSIGN\nPatient signature (or legal representative)\nBy signing below, I am stating that the information above is correct. Any person who knowingly files a statement of claim containing any misrepresentation or any \nfalse, incomplete or misleading information, may be guilty of a criminal act punishable under law and may be subject to civil penalties.\nSignature\nPrint name\nSIGN\nMember/legal guardian\nSignature of minor member or member’s representative\nRelationship to member\nDate (mm/dd/yyyy)\nPlease maintain a copy of this document for your records.\n© 2026 United HealthCare Services, Inc. All Rights Reserved.  \nInsurance coverage provided by or through UnitedHealthcare Insurance Company or its affiliates. Administrative \nservices provided by United HealthCare Services, Inc. or their affiliates.\n04/26  MBR-EXP-1694500-CF",
+    "metadata": {
+      "insurer": "UnitedHealthcare Global",
+      "document_type": "claim_form",
+      "source_file": "MBR-EXP-1694500-CF Dental Only Member Claim Form_230201_HRPrint.pdf",
+      "source_category": "claim",
+      "section_number": 3,
+      "section_title": "Section 3",
+      "chunk_type": "claim_form_section",
+      "region_scope": "global",
+      "korea_applicability": "conditional",
+      "language": "en",
+      "claim_deadline_days": 365,
+      "requires_invoice_or_receipt": true
+    }
+  }
+]
