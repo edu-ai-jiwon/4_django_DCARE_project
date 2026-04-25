@@ -1,17 +1,19 @@
-# TRICARE PDF Preprocessing
+# TRICARE & UHC PDF Preprocessing
 
 ## 📌 개요
 
-TRICARE 보험 관련 PDF 문서를 RAG 기반 챗봇에 활용하기 위해 전처리를 수행했음.  
+TRICARE 및 UHC 보험 관련 PDF 문서를 RAG 기반 챗봇에 활용하기 위해 전처리를 수행했음.  
 목표는 PDF → JSON 구조화까지 진행하는 것이었음.
 
-전체 흐름은 아래와 같았음:
+전체 흐름은 다음과 같았음:
 
 PDF → Text Extraction → Cleaning → Section → JSON
 
 ---
 
 ## 📂 처리 대상 파일
+
+### TRICARE
 
 | 파일명 | 설명 | 특징 |
 |--------|------|------|
@@ -20,61 +22,62 @@ PDF → Text Extraction → Cleaning → Section → JSON
 
 ---
 
-## 🛠 사용 라이브러리
+### UHC
+
+| 파일명 | 설명 | 특징 |
+|--------|------|------|
+| Business Travel FAQs | 출장자 FAQ | Q&A 구조 |
+| BeHealthy SOB | 보장 항목 문서 | 표(Table) 구조 |
+| Global Program Guide | 프로그램 안내 | 설명형 문서 |
+| Welcome Guide | 가입자 안내 | 절차/가이드 중심 |
+| Expat Claim Form | 보험 청구서 | 입력 필드 중심 |
+| Dental Claim Form | 치과 청구서 | 표 + 입력 필드 혼합 |
+
+---
+
+## 🛠 사용 라이브러리 및 스택
 
 | 라이브러리 | 사용 이유 |
 |------------|----------|
-| pdfplumber | PDF 텍스트 추출 용도였음 |
-| re | 불필요 텍스트 제거용 정규표현식 처리였음 |
-| json | 전처리 결과 저장용이었음 |
-| pathlib | 경로 관리용이었음 |
+| pdfplumber | PDF 텍스트 추출 |
+| re | 정규표현식 기반 cleaning |
+| json | 전처리 결과 저장 |
+| pathlib | 경로 관리 |
+| Jupyter Notebook | 실험 및 디버깅 |
+| VSCode | 프로젝트 구조 관리 |
 
 ---
 
-## ⚠️ PDF 전처리 특이사항
+## ⚠️ PDF 전처리 공통 이슈
 
-### 1. 텍스트 깨짐 현상 있었음
-- PDF 구조 특성상 문장이 중간에 끊기는 경우 발생했음
-- 예:The public reporting bur
+### 1. 텍스트 깨짐 현상
 
-
-👉 해결 방식:
-- 문장 기반 제거는 실패했음
-- 패턴 기반 제거 방식으로 처리했음
-
----
-
-### 2. Header / Footer 반복 문제 있었음
-- 모든 페이지에 동일 문구 반복되었음
-
-예: PREVIOUS EDITION IS OBSOLETE
-OMB No...
-CUI (when filled in)
-
+- PDF 구조 특성상 문장이 중간에 끊기는 문제 발생했음
+- 예: `The public reporting bur`
 
 👉 해결:
-- 공통 제거 함수 적용했음
+- 문장 기반 제거 실패
+- 정규표현식 기반 패턴 제거 방식 사용했음
 
 ---
 
-### 3. 파일별 구조 차이 있었음
+### 2. Header / Footer 반복
 
-#### dd2642.pdf
-- 청구 절차 중심 문서였음
-- IMPORTANT, ITEMIZED BILL, TIMELY FILING 등 구조 존재했음
+- 모든 페이지에 동일 문구 반복
 
-#### dd2527.pdf
-- 사고/상해 관련 법적 문서였음
-- SECTION I / II / III 구조로 구성되어 있었음
+예:
+- OMB No.
+- CUI (when filled in)
+- PREVIOUS EDITION
 
 👉 해결:
-- 파일별 cleaning 로직 분리했음
+- 공통 cleaning 함수로 제거
 
 ---
 
 ## 🧹 Cleaning 전략
 
-### 공통 제거 대상
+### 공통 제거
 
 - OMB / CUI / Page 정보 제거했음
 - PREVIOUS EDITION 제거했음
@@ -82,57 +85,85 @@ CUI (when filled in)
 
 ---
 
-### dd2642 전용 제거
+### TRICARE 전용 처리
 
-- Prescribed by 관련 문구 제거했음
-- TRICARE Operations Manual 제거했음
-- OMB approval expires 제거했음
-- public reporting burden 관련 문구 제거했음
+#### dd2642
+- Prescribed by 제거
+- TRICARE Manual 제거
+- OMB approval expires 제거
+- public reporting burden 제거
+
+#### dd2527
+- 행정 안내 문구 제거
+- 제출 관련 안내 제거
 
 👉 이유:
-- 챗봇 답변과 직접적인 관련 없었음
+- 사용자 질의와 관련 없는 정보였음
 
 ---
 
-### dd2527 전용 제거
+### UHC 전용 처리
 
-- public reporting burden 문구 제거했음
-- PLEASE DO NOT RETURN 문구 제거했음
+#### FAQ 문서
+- cleaning 최소화했음
+- Q&A 구조 유지했음
 
-👉 이유:
-- 사용자 질의와 관련 없는 행정 안내였음
+#### Guide 문서
+- header 제거
+- section 단위 분리 적용했음
+
+#### Claim Form
+- 입력 필드 제거
+- 안내 문구만 유지했음
+
+#### SOB (Schedule of Benefits)
+- 표 구조 깨짐 발생했음
+- 의미 단위 기준으로 재구성했음
+
+👉 핵심:
+- 문서 유형별 cleaning 전략 다르게 적용했음
 
 ---
-
 ## 🧠 핵심 설계
 
 ### 1. 파일별 Cleaning 분리
 
-clean_common / clean_dd2642 / clean_dd2527 / clean_text 구조로 설계했음
-
 👉 이유:
-- PDF 구조가 서로 달랐음
-- 동일 로직 적용 시 정보 손실 발생 가능했음
+
+- PDF 구조가 서로 달랐음  
+- 동일 로직 적용 시 정보 손실 발생 가능했음  
 
 ---
 
 ### 2. Section 단위 분리
 
-#### dd2642.pdf
+#### 📄 TRICARE
 
+**dd2642:**
 - claim_overview
 - important_claim_instructions
 - how_to_fill_out_form
 
-#### dd2527.pdf
-
+**dd2527:**
 - injury_form_instructions
 - injury_general_information
 - injury_type_and_cause
 - injury_miscellaneous
 
-👉 이유:
-- 페이지 단위보다 의미 단위 검색이 중요했음
+👉 총 7개 section 구성했음  
+
+---
+
+#### 📄 UHC
+
+문서별 구조 기준으로 분리했음:
+
+- FAQ → 질문 단위  
+- Guide → section 단위  
+- Claim → 안내/설명 단위  
+- SOB → 항목 단위  
+
+👉 문서 유형별로 다른 기준 적용했음  
 
 ---
 
@@ -148,34 +179,55 @@ clean_common / clean_dd2642 / clean_dd2527 / clean_text 구조로 설계했음
 }
 ```
 ---
+## 📤 결과
 
-### 📤 결과
+### 📄 TRICARE
 
-- 출력 파일:
-outputs/json_docs/tricare_forms.json 생성했음
-
----
-
-### 🚀 다음 단계
-
-Section → Chunk → Vector DB → RAG 연결 예정이었음
+- `outputs/json_docs/tricare_forms.json` 생성했음  
+- 총 7개 section 구성했음  
 
 ---
 
-### 📌 UHC 데이터 관련 특이사항
+### 📄 UHC
 
-- UHC 데이터 수집량이 적었던 이유는 다음과 같았음:
+- `outputs/uhc/guide/*.json` 생성했음  
+- `outputs/uhc/claim/*.json` 생성했음  
 
-1. 공개된 공식 PDF 자료 수 자체가 제한적이었음
-2. 일부 문서는 로그인/유료 접근이 필요했음
-3. TRICARE 대비 구조화된 문서 확보가 어려웠음
-4. 데이터 품질이 일정하지 않아 전처리 기준 통일이 어려웠음
+#### 📂 생성 파일 목록
 
-👉 따라서 우선 TRICARE 기준으로 전처리 파이프라인을 먼저 구축했음
+- `business_travel_faq_chunks.json`  
+- `program_guide_chunks.json`  
+- `welcome_guide_chunks.json`  
+- `behealthy_sob_chunks.json`  
+- `uhc_claim_section_chunks.json`  
+
+👉 문서 유형별 JSON 분리 구조로 저장했음  
 
 ---
 
-### 🎯 요약
+## 🚀 다음 단계
 
-1. PDF → Cleaning → Section JSON 생성까지 완료했음
-2. Chunk 및 Vector DB 단계는 팀원과 상의하에 진행하기로 함
+- Section → Chunk 분리 예정이었음  
+- Vector DB 구축 예정이었음  
+- Retriever 연결 예정이었음  
+- LangGraph 연동 예정이었음  
+
+---
+
+## 📌 UHC 전처리 특이사항
+
+- SOB는 표 구조로 난이도 높았음  
+- Claim Form은 RAG 활용도가 낮아 일부만 사용했음  
+
+👉 핵심:
+- 모든 문서를 동일하게 처리하지 않고
+- 문서 유형별 전략을 분리했음
+
+
+---
+
+## 🎯 최종 요약
+
+- TRICARE, UHC 모두 JSON 기반 전처리 완료했음  
+- 문서 유형별 구조에 맞춘 전처리 설계 적용했음  
+- RAG 적용을 위한 데이터 구조화 완료 상태였음  
