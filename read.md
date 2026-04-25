@@ -177,7 +177,8 @@ PDF → Text Extraction → Cleaning → Section → JSON
   "content": "...",
   "topic": [...]
 }
-
+```
+---
 ## 📤 결과
 
 ### 📄 TRICARE
