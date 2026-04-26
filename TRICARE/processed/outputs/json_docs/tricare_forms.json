@@ -1,0 +1,8 @@
+[
+  {
+    "insurer": "TRICARE",
+    "language": "en",
+    "audience": "foreign_residents_in_korea",
+    "country_context": "Korea",
+    "keep_for_rag": true,
+    "pdf_path": 

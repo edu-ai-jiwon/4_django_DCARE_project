@@ -1,7 +1,7 @@
 [
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row1",
-    "content": "Core Plan: Annual Maximum Benefit USD ($)\nBeHealthy Core 1: $1,500,000\nBeHealthy Core 2: $3,000,000\nBeHealthy Core 3: No Limit",
+    "text": "Core Plan: Annual Maximum Benefit USD ($)\nBeHealthy Core 1: $1,500,000\nBeHealthy Core 2: $3,000,000\nBeHealthy Core 3: No Limit",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -16,7 +16,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row2",
-    "content": "Core Plan: Annual Maximum Benefit EUR (€)\nBeHealthy Core 1: €1,300,000\nBeHealthy Core 2: €2,600,000\nBeHealthy Core 3: No Limit",
+    "text": "Core Plan: Annual Maximum Benefit EUR (€)\nBeHealthy Core 1: €1,300,000\nBeHealthy Core 2: €2,600,000\nBeHealthy Core 3: No Limit",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -31,7 +31,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row3",
-    "content": "Core Plan: Annual Maximum Benefit GBP (£)\nBeHealthy Core 1: £1,200,000\nBeHealthy Core 2: £2,400,000\nBeHealthy Core 3: No Limit",
+    "text": "Core Plan: Annual Maximum Benefit GBP (£)\nBeHealthy Core 1: £1,200,000\nBeHealthy Core 2: £2,400,000\nBeHealthy Core 3: No Limit",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -46,7 +46,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row4",
-    "content": "Core Plan: Annual Maximum Benefit CHF\nBeHealthy Core 1: 1,400,000 CHF\nBeHealthy Core 2: 2,800,000 CHF\nBeHealthy Core 3: No Limit",
+    "text": "Core Plan: Annual Maximum Benefit CHF\nBeHealthy Core 1: 1,400,000 CHF\nBeHealthy Core 2: 2,800,000 CHF\nBeHealthy Core 3: No Limit",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -61,7 +61,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row6",
-    "content": "Core Plan: Core Plan Healthcare Benefits\nBeHealthy Core 1: BeHealthy Core 1\nBeHealthy Core 2: BeHealthy Core 2\nBeHealthy Core 3: BeHealthy Core 3",
+    "text": "Core Plan: Core Plan Healthcare Benefits\nBeHealthy Core 1: BeHealthy Core 1\nBeHealthy Core 2: BeHealthy Core 2\nBeHealthy Core 3: BeHealthy Core 3",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -76,7 +76,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row7",
-    "content": "Core Plan: Hospital Accommodation*\nBeHealthy Core 1: Private Room\nBeHealthy Core 2: Private Room\nBeHealthy Core 3: Private Room",
+    "text": "Core Plan: Hospital Accommodation*\nBeHealthy Core 1: Private Room\nBeHealthy Core 2: Private Room\nBeHealthy Core 3: Private Room",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -91,7 +91,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row8",
-    "content": "Core Plan: Day-patient Treatment*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Day-patient Treatment*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -106,7 +106,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row9",
-    "content": "Core Plan: Prescriptions Medicines, Drugs and Dressings*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Prescriptions Medicines, Drugs and Dressings*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -121,7 +121,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row10",
-    "content": "Core Plan: Parental Accommodation*\nApplies to a parent staying in the hospital with a dependant child under 18.\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Parental Accommodation*\nApplies to a parent staying in the hospital with a dependant child under 18.\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -136,7 +136,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row11",
-    "content": "Core Plan: Accommodation Costs for Accompanying Person*\nStaying in hospital in the same room in cases of critical conditions.\nBeHealthy Core 1: $70 / €60 /\n£55 / 65 CHF per night\nBeHealthy Core 2: $70 / €60 /\n£55 / 65 CHF per night\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Accommodation Costs for Accompanying Person*\nStaying in hospital in the same room in cases of critical conditions.\nBeHealthy Core 1: $70 / €60 /\n£55 / 65 CHF per night\nBeHealthy Core 2: $70 / €60 /\n£55 / 65 CHF per night\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -151,7 +151,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row12",
-    "content": "Core Plan: Chronic Conditions\nBeHealthy Core 1: Covered up to listed\nbenefit limits\nBeHealthy Core 2: Covered up to listed\nbenefit limits\nBeHealthy Core 3: Covered up to listed\nbenefit limits",
+    "text": "Core Plan: Chronic Conditions\nBeHealthy Core 1: Covered up to listed\nbenefit limits\nBeHealthy Core 2: Covered up to listed\nbenefit limits\nBeHealthy Core 3: Covered up to listed\nbenefit limits",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -166,7 +166,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row13",
-    "content": "Core Plan: Surgeon & Anaesthetist's Fees*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Surgeon & Anaesthetist's Fees*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -181,7 +181,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row14",
-    "content": "Core Plan: Surgical Procedures & Appliances and Materials*\nIn-patient and day-patient treatment.\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Surgical Procedures & Appliances and Materials*\nIn-patient and day-patient treatment.\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -196,7 +196,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row15",
-    "content": "Core Plan: Intensive Care*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Intensive Care*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -211,7 +211,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row16",
-    "content": "Core Plan: Therapist & Physician Fees*\nIn-patient and day-patient treatment only.\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Therapist & Physician Fees*\nIn-patient and day-patient treatment only.\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -226,7 +226,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row17",
-    "content": "Core Plan: Diagnostic Tests*\nIncludes pathology, X-rays, radiology, CT and MRI scans, PET and CT- PET scans.\nIn-patient and day-patient treatment only.\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Diagnostic Tests*\nIncludes pathology, X-rays, radiology, CT and MRI scans, PET and CT- PET scans.\nIn-patient and day-patient treatment only.\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -241,7 +241,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row18",
-    "content": "Core Plan: Rehabilitation*\nTreatment must start within 14 days of surgery and/or discharge after the acute medical\ncondition.\nIn-patient and day-patient treatment only.\nBeHealthy Core 1: $4,000 /\n€3,600 /\n£3,200 / 3,900 CHF\nBeHealthy Core 2: $11,100 /\n€10,000 /\n£8,900 /\n10,800 CHF\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Rehabilitation*\nTreatment must start within 14 days of surgery and/or discharge after the acute medical\ncondition.\nIn-patient and day-patient treatment only.\nBeHealthy Core 1: $4,000 /\n€3,600 /\n£3,200 / 3,900 CHF\nBeHealthy Core 2: $11,100 /\n€10,000 /\n£8,900 /\n10,800 CHF\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -256,7 +256,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row19",
-    "content": "Core Plan: Reconstructive Surgery*\nAfter an accident, illness or injury. In-patient, out-patient and day-patient treatment.\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Reconstructive Surgery*\nAfter an accident, illness or injury. In-patient, out-patient and day-patient treatment.\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -271,7 +271,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row20",
-    "content": "Core Plan: Congenital & Hereditary Conditions*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Congenital & Hereditary Conditions*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -286,7 +286,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row21",
-    "content": "Core Plan: Organ Transplant*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Organ Transplant*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -301,7 +301,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row22",
-    "content": "Core Plan: Dialysis*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Dialysis*\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -316,7 +316,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p1_table1_row23",
-    "content": "Core Plan: Psychiatric & Psychotherapy Care*\n10 month waiting period applies.\nIn-patient and day-patient treatment only.\nBeHealthy Core 1: Up to 20 days\nBeHealthy Core 2: Up to 30 days\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan: Psychiatric & Psychotherapy Care*\n10 month waiting period applies.\nIn-patient and day-patient treatment only.\nBeHealthy Core 1: Up to 20 days\nBeHealthy Core 2: Up to 30 days\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -331,7 +331,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table1_row1",
-    "content": "Hospice & Palliative Care*: Home Nursing or in a Convalescent Home*\nCovered immediately after or instead of hospitalisation.\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: $200 /\n€175 /\n£160 /\n190 CHF per day up to 20\ndays\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: $200 /\n€175 /\n£160 /\n190 CHF per day up to 30\ndays\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: Paid in Full",
+    "text": "Hospice & Palliative Care*: Home Nursing or in a Convalescent Home*\nCovered immediately after or instead of hospitalisation.\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: $200 /\n€175 /\n£160 /\n190 CHF per day up to 20\ndays\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: $200 /\n€175 /\n£160 /\n190 CHF per day up to 30\ndays\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -346,7 +346,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table1_row2",
-    "content": "Hospice & Palliative Care*: In-patient Cash Benefit\nWhere treatment is free of charge.\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: $140 /\n€125 /\n£115 /\n135 CHF per night up to\n20 nights\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: $140 /\n€125 /\n£115 /\n135 CHF per night up to\n30 nights\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: $140 /\n€125 /\n£115 /\n135 CHF per night up to\n40 nights",
+    "text": "Hospice & Palliative Care*: In-patient Cash Benefit\nWhere treatment is free of charge.\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: $140 /\n€125 /\n£115 /\n135 CHF per night up to\n20 nights\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: $140 /\n€125 /\n£115 /\n135 CHF per night up to\n30 nights\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: $140 /\n€125 /\n£115 /\n135 CHF per night up to\n40 nights",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -361,7 +361,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table1_row3",
-    "content": "Hospice & Palliative Care*: Second Medical Opinion\nProvided by another medical professional to confirm the diagnosis and treatment of a primary\nphysician or to offer an alternative diagnosis and or treatment.\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: Not covered\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: Included\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: Included",
+    "text": "Hospice & Palliative Care*: Second Medical Opinion\nProvided by another medical professional to confirm the diagnosis and treatment of a primary\nphysician or to offer an alternative diagnosis and or treatment.\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: Not covered\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: Included\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: Included",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -376,7 +376,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table1_row4",
-    "content": "Hospice & Palliative Care*: Accident & Emergency Treatment\nOutside of area of cover (for trips of a maximum period of 6 weeks).\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: 20 days per year\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: 30 days per year\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: 30 days per year",
+    "text": "Hospice & Palliative Care*: Accident & Emergency Treatment\nOutside of area of cover (for trips of a maximum period of 6 weeks).\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: 20 days per year\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: 30 days per year\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: 30 days per year",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -391,7 +391,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table1_row5",
-    "content": "Hospice & Palliative Care*: HIV/AIDS*\nIn-patient, out-patient and day-patient treatment.\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: $4,800 /\n€4,250 /\n£3,900 / 4,600 CHF\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: $9,500 /\n€8,500 /\n£7,800 / 9,200 CHF\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: Paid in Full",
+    "text": "Hospice & Palliative Care*: HIV/AIDS*\nIn-patient, out-patient and day-patient treatment.\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: $4,800 /\n€4,250 /\n£3,900 / 4,600 CHF\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: $9,500 /\n€8,500 /\n£7,800 / 9,200 CHF\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -406,7 +406,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table1_row6",
-    "content": "Hospice & Palliative Care*: Ambulance Services\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: Paid in Full\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: Paid in Full\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: Paid in Full",
+    "text": "Hospice & Palliative Care*: Ambulance Services\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: Paid in Full\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: Paid in Full\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -421,7 +421,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table1_row7",
-    "content": "Hospice & Palliative Care*: Repatriation of Remains*\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: Paid in Full\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: Paid in Full\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: Paid in Full",
+    "text": "Hospice & Palliative Care*: Repatriation of Remains*\n$30,000 /\n€26,750 /\n£24,500 / 29,000 CHF\nper lifetime: Paid in Full\n$47,000 /\n€42,000 /\n£38,000 / 45,000 CHF\nper lifetime: Paid in Full\n$59,000 /\n€52,500 /\n£48,000 / 56,500 CHF\nper lifetime: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -436,7 +436,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table2_row1",
-    "content": "Core Plan Healthcare Benefits: Travel Costs of Insured Family Member\nIn the event of repatriation of mortal remains.\nBeHealthy Core 1: $1,700 / €1,500 /\n£1,350 / 1,600 CHF\nBeHealthy Core 2: $1,700 / €1,500 /\n£1,350 / 1,600 CHF\nBeHealthy Core 3: $1,700 / €1,500 /\n£1,350 / 1,600 CHF",
+    "text": "Core Plan Healthcare Benefits: Travel Costs of Insured Family Member\nIn the event of repatriation of mortal remains.\nBeHealthy Core 1: $1,700 / €1,500 /\n£1,350 / 1,600 CHF\nBeHealthy Core 2: $1,700 / €1,500 /\n£1,350 / 1,600 CHF\nBeHealthy Core 3: $1,700 / €1,500 /\n£1,350 / 1,600 CHF",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -451,7 +451,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table2_row2",
-    "content": "Core Plan Healthcare Benefits: In-patient Dental Treatment Following an Accident\nBeHealthy Core 1: $950 / €850 / £750 / 920\nCHF\nBeHealthy Core 2: $1,900 / €1,700 / £1,500 /\n1,850 CHF\nBeHealthy Core 3: Paid in Full",
+    "text": "Core Plan Healthcare Benefits: In-patient Dental Treatment Following an Accident\nBeHealthy Core 1: $950 / €850 / £750 / 920\nCHF\nBeHealthy Core 2: $1,900 / €1,700 / £1,500 /\n1,850 CHF\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -466,7 +466,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table2_row3",
-    "content": "Core Plan Healthcare Benefits: Preventative Surgery*\nBeHealthy Core 1: Not covered\nBeHealthy Core 2: $22,300/\n€20,000/\n£18,300/ 21,500 CHF\nBeHealthy Core 3: $33,500/\n€30,000/\n£27,500/ 32,500 CHF",
+    "text": "Core Plan Healthcare Benefits: Preventative Surgery*\nBeHealthy Core 1: Not covered\nBeHealthy Core 2: $22,300/\n€20,000/\n£18,300/ 21,500 CHF\nBeHealthy Core 3: $33,500/\n€30,000/\n£27,500/ 32,500 CHF",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -481,7 +481,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table3_row1",
-    "content": "Oncology Benefits: Oncology Treatment*\nIn-patient, out-patient and day-patient treatment.\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Oncology Benefits: Oncology Treatment*\nIn-patient, out-patient and day-patient treatment.\nBeHealthy Core 1: Paid in Full\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -496,7 +496,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table3_row2",
-    "content": "Oncology Benefits: Oncology Counselling Services\nConsultations with a registered counsellor via our EAP service when you have been diagnosed\nwith cancer.\nBeHealthy Core 1: 7 visits\nBeHealthy Core 2: 7 visits\nBeHealthy Core 3: 7 visits",
+    "text": "Oncology Benefits: Oncology Counselling Services\nConsultations with a registered counsellor via our EAP service when you have been diagnosed\nwith cancer.\nBeHealthy Core 1: 7 visits\nBeHealthy Core 2: 7 visits\nBeHealthy Core 3: 7 visits",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -511,7 +511,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p2_table3_row3",
-    "content": "Oncology Benefits: Wig or Prosthetic Bra\nPurchase of a wig or a prosthetic bra following cancer treatment.\nBeHealthy Core 1: $175 /\n€150 /\n£135 /\n160 CHF\nBeHealthy Core 2: $175 /\n€150 /\n£135 /\n160 CHF\nBeHealthy Core 3: $175 /\n€150 /\n£135 /\n160 CHF",
+    "text": "Oncology Benefits: Wig or Prosthetic Bra\nPurchase of a wig or a prosthetic bra following cancer treatment.\nBeHealthy Core 1: $175 /\n€150 /\n£135 /\n160 CHF\nBeHealthy Core 2: $175 /\n€150 /\n£135 /\n160 CHF\nBeHealthy Core 3: $175 /\n€150 /\n£135 /\n160 CHF",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -526,7 +526,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p3_table1_row1",
-    "content": "Wellness Benefits: Routine Annual Health Checks & Preventive Care\nIncludes blood and cholesterol checks, physical examinations, blood pressure and BMI, urine\nanalysis and hearing examination.",
+    "text": "Wellness Benefits: Routine Annual Health Checks & Preventive Care\nIncludes blood and cholesterol checks, physical examinations, blood pressure and BMI, urine\nanalysis and hearing examination.",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -541,7 +541,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p3_table1_row2",
-    "content": "Wellness Benefits: Cancer Screenings\n Mammograms every two years for women aged 40-49 or one mammogram every year for\nwomen aged 50+\n Routine gynaecological tests including PAP smears\n Testicular/prostate examination/PSA/DRE tests every year for men aged 50+ or earlier based\non family history\n BRCA 1 & BRCA 2 genetic tests for women with high risk for breast cancer*\nBeHealthy Core 1: 70% Refund\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Wellness Benefits: Cancer Screenings\n Mammograms every two years for women aged 40-49 or one mammogram every year for\nwomen aged 50+\n Routine gynaecological tests including PAP smears\n Testicular/prostate examination/PSA/DRE tests every year for men aged 50+ or earlier based\non family history\n BRCA 1 & BRCA 2 genetic tests for women with high risk for breast cancer*\nBeHealthy Core 1: 70% Refund\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -556,7 +556,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p3_table1_row3",
-    "content": "Wellness Benefits: My Wellbeing\nA healthy lifestyle mobile app and web based services focused on health activity and nutritional\nprogrammes. Includes Digital Wellness Coaching.\nBeHealthy Core 1: Included\nBeHealthy Core 2: Included\nBeHealthy Core 3: Included",
+    "text": "Wellness Benefits: My Wellbeing\nA healthy lifestyle mobile app and web based services focused on health activity and nutritional\nprogrammes. Includes Digital Wellness Coaching.\nBeHealthy Core 1: Included\nBeHealthy Core 2: Included\nBeHealthy Core 3: Included",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -571,7 +571,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p3_table1_row4",
-    "content": "Wellness Benefits: Employee Assistance Programme (EAP)\nConfidential, 24/7 telephonic support to help you and your family with life's challenges. Includes\naccess to structured face-to-face, virtual and telephonic counseling services for acute conditions.\nBeHealthy Core 1: 7 face-to-face visits per\nyear & unlimited\ntelephonic support per\nissue\nBeHealthy Core 2: 7 face-to-face visits per\nyear & unlimited\ntelephonic support per\nissue\nBeHealthy Core 3: 7 face-to-face visits per\nyear & unlimited\ntelephonic support per\nissue",
+    "text": "Wellness Benefits: Employee Assistance Programme (EAP)\nConfidential, 24/7 telephonic support to help you and your family with life's challenges. Includes\naccess to structured face-to-face, virtual and telephonic counseling services for acute conditions.\nBeHealthy Core 1: 7 face-to-face visits per\nyear & unlimited\ntelephonic support per\nissue\nBeHealthy Core 2: 7 face-to-face visits per\nyear & unlimited\ntelephonic support per\nissue\nBeHealthy Core 3: 7 face-to-face visits per\nyear & unlimited\ntelephonic support per\nissue",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -586,7 +586,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p3_table2_row1",
-    "content": "Wellness Benefits: Livewell Online Resources\nThe Livewell portal is your guide for all things health and wellness related. It provides\ncomprehensive information on the EAP service and offers an extensive range of educational\nmaterials and tools.\nBeHealthy Core 1: Included\nBeHealthy Core 2: Included\nBeHealthy Core 3: Included",
+    "text": "Wellness Benefits: Livewell Online Resources\nThe Livewell portal is your guide for all things health and wellness related. It provides\ncomprehensive information on the EAP service and offers an extensive range of educational\nmaterials and tools.\nBeHealthy Core 1: Included\nBeHealthy Core 2: Included\nBeHealthy Core 3: Included",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -601,7 +601,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p3_table2_row2",
-    "content": "Wellness Benefits: Vaccinations\nBeHealthy Core 1: 70% Refund\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Wellness Benefits: Vaccinations\nBeHealthy Core 1: 70% Refund\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -616,7 +616,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p3_table2_row3",
-    "content": "Wellness Benefits: Dietician Consultations\nCover initial consultations and two follow up visits.\nBeHealthy Core 1: Not Covered\nBeHealthy Core 2: Not Covered\nBeHealthy Core 3: 3 visits",
+    "text": "Wellness Benefits: Dietician Consultations\nCover initial consultations and two follow up visits.\nBeHealthy Core 1: Not Covered\nBeHealthy Core 2: Not Covered\nBeHealthy Core 3: 3 visits",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -631,7 +631,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p3_table2_row4",
-    "content": "Wellness Benefits: Cardiovascular Genetic Testing\nBeHealthy Core 1: Not Covered\nBeHealthy Core 2: Not Covered\nBeHealthy Core 3: Paid in Full",
+    "text": "Wellness Benefits: Cardiovascular Genetic Testing\nBeHealthy Core 1: Not Covered\nBeHealthy Core 2: Not Covered\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -646,7 +646,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p3_table2_row6",
-    "content": "Wellness Benefits: Maternity Benefits\nBeHealthy Core 1: BeHealthy Core 1\nBeHealthy Core 2: BeHealthy Core 2\nBeHealthy Core 3: BeHealthy Core 3",
+    "text": "Wellness Benefits: Maternity Benefits\nBeHealthy Core 1: BeHealthy Core 1\nBeHealthy Core 2: BeHealthy Core 2\nBeHealthy Core 3: BeHealthy Core 3",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -661,7 +661,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p3_table2_row7",
-    "content": "Wellness Benefits: Routine Maternity Care*\nIn-patient, out-patient and day-patient treatment 10-month waiting period.\nStem Cell Storage*\nCosts covers extraction and one year preservation of stem cells\n10-month waiting period.\nBeHealthy Core 1: Not covered\nNot covered\nBeHealthy Core 2: $9,500/\n€8,500/\n£7,750/ 9,200 CHF\nper pregnancy\n$2,000 /\n€1,750 /\n£1,600/ 1,900\nCHF per pregnancy\nincluded within the routine\nmaternity benefit\nBeHealthy Core 3: Paid in Full\n$3,000/\n€2,500/\n£2,250/ 2,700\nCHF per pregnancy",
+    "text": "Wellness Benefits: Routine Maternity Care*\nIn-patient, out-patient and day-patient treatment 10-month waiting period.\nStem Cell Storage*\nCosts covers extraction and one year preservation of stem cells\n10-month waiting period.\nBeHealthy Core 1: Not covered\nNot covered\nBeHealthy Core 2: $9,500/\n€8,500/\n£7,750/ 9,200 CHF\nper pregnancy\n$2,000 /\n€1,750 /\n£1,600/ 1,900\nCHF per pregnancy\nincluded within the routine\nmaternity benefit\nBeHealthy Core 3: Paid in Full\n$3,000/\n€2,500/\n£2,250/ 2,700\nCHF per pregnancy",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -676,7 +676,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p3_table2_row8",
-    "content": "Wellness Benefits: Complications of Pregnancy & Childbirth*\n10-month waiting period.\nBeHealthy Core 1: Not covered\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
+    "text": "Wellness Benefits: Complications of Pregnancy & Childbirth*\n10-month waiting period.\nBeHealthy Core 1: Not covered\nBeHealthy Core 2: Paid in Full\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -691,7 +691,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p3_table2_row9",
-    "content": "Wellness Benefits: Home Delivery*\n10-month waiting period.\nBeHealthy Core 1: Not covered\nBeHealthy Core 2: $1,100 /\n€1,000 /\n£900 /\n1,080 CHF per\npregnancy\nBeHealthy Core 3: Paid in Full",
+    "text": "Wellness Benefits: Home Delivery*\n10-month waiting period.\nBeHealthy Core 1: Not covered\nBeHealthy Core 2: $1,100 /\n€1,000 /\n£900 /\n1,080 CHF per\npregnancy\nBeHealthy Core 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -706,7 +706,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p4_table1_row1",
-    "content": "Medically Necessary Caesarean Section*\n10-month waiting period.: Newborn Care*\nNot covered: Not covered\n$25,000 /\n€22,000 /\n£20,000 /\n23,750 CHF per\npregnancy: $140,000 /\n€125,000 /\n£115,000 / 135,000 CHF\nper child\nPaid in Full: $235,000 /\n€210,000 /\n£190,000 / 227,000 CHF\nper child",
+    "text": "Medically Necessary Caesarean Section*\n10-month waiting period.: Newborn Care*\nNot covered: Not covered\n$25,000 /\n€22,000 /\n£20,000 /\n23,750 CHF per\npregnancy: $140,000 /\n€125,000 /\n£115,000 / 135,000 CHF\nper child\nPaid in Full: $235,000 /\n€210,000 /\n£190,000 / 227,000 CHF\nper child",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -721,7 +721,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p4_table2_row1",
-    "content": "Assistance Services: Medical Evacuation & Repatriation*\nThe eligible costs and expenses in connection with the Medical Evacuation and Repatriation\nServices are as follows:\n1. Arranging and providing for transportation and related medical services (including the cost of\na medical or non-medical escort) and medical supplies necessarily incurred in connection with\nthe evacuation.\n2. Returning the Insured Member to their Home Country or Host Country following treatment and\nstabilisation, their Home Country must be within their Area of Cover. The return journey must be\nmade within one month after treatment has been completed.\n3. Hotel accommodation costs are covered for the Insured Member if medical necessity or\navailability of transport prevents an immediate return trip following completion of treatment\n(discharge or final appointment) hotel costs will be covered up to the limit specified in the\nSchedule of Benefits. Your accommodation will be covered:\n•up to 7 days from the completion of treatment OR\n•until the date you are deemed fit to travel (ie. fit to fly) in the event that your clinical condition\nadvances your fitness to travel date beyond the 7 day limit OR\n•until the date of your medical transportation (in cases where we are arranging your medical\ntransportation).\n4. Expenses occurred for one adult accompanying an evacuated person.\n5. Travel and hotel costs for the insured family members in the event of an emergency evacuation\nwhich could be a life-threatening condition.\n6. Transportation of Your children (under the age of 18) either to the same location as the Insured\nMember or to a location where the children can be placed under the care of another guardian or\nrelative.\n7. Dispatch of a Medical Practitioner to Insured Member’s location when it is deemed\nappropriate for medical management of a case.\nBeHealthy Core 1: Paid in Full\nPaid in Full\nUp to 7 days\n$3,100 /\n€2,800 /\n£2,500 / 3,000 CHF\n$2,300 /\n€2,000 /\n£1,800 / 2,150 CHF\nPaid in Full\nPaid in Full\nBeHealthy Core 2: Paid in Full\nPaid in Full\nUp to 7 days\n$3,100 /\n€2,800 /\n£2,500 / 3,000 CHF\n$2,300 /\n€2,000 /\n£1,800 / 2,150 CHF\nPaid in Full\nPaid in Full\nBeHealthy Core 3: Paid in Full\nPaid in Full\nUp to 7 days\n$3,100 /\n€2,800 /\n£2,500 / 3,000 CHF\n$2,300 /\n€2,000 /\n£1,800 / 2,150 CHF\nPaid in Full\nPaid in Full",
+    "text": "Assistance Services: Medical Evacuation & Repatriation*\nThe eligible costs and expenses in connection with the Medical Evacuation and Repatriation\nServices are as follows:\n1. Arranging and providing for transportation and related medical services (including the cost of\na medical or non-medical escort) and medical supplies necessarily incurred in connection with\nthe evacuation.\n2. Returning the Insured Member to their Home Country or Host Country following treatment and\nstabilisation, their Home Country must be within their Area of Cover. The return journey must be\nmade within one month after treatment has been completed.\n3. Hotel accommodation costs are covered for the Insured Member if medical necessity or\navailability of transport prevents an immediate return trip following completion of treatment\n(discharge or final appointment) hotel costs will be covered up to the limit specified in the\nSchedule of Benefits. Your accommodation will be covered:\n•up to 7 days from the completion of treatment OR\n•until the date you are deemed fit to travel (ie. fit to fly) in the event that your clinical condition\nadvances your fitness to travel date beyond the 7 day limit OR\n•until the date of your medical transportation (in cases where we are arranging your medical\ntransportation).\n4. Expenses occurred for one adult accompanying an evacuated person.\n5. Travel and hotel costs for the insured family members in the event of an emergency evacuation\nwhich could be a life-threatening condition.\n6. Transportation of Your children (under the age of 18) either to the same location as the Insured\nMember or to a location where the children can be placed under the care of another guardian or\nrelative.\n7. Dispatch of a Medical Practitioner to Insured Member’s location when it is deemed\nappropriate for medical management of a case.\nBeHealthy Core 1: Paid in Full\nPaid in Full\nUp to 7 days\n$3,100 /\n€2,800 /\n£2,500 / 3,000 CHF\n$2,300 /\n€2,000 /\n£1,800 / 2,150 CHF\nPaid in Full\nPaid in Full\nBeHealthy Core 2: Paid in Full\nPaid in Full\nUp to 7 days\n$3,100 /\n€2,800 /\n£2,500 / 3,000 CHF\n$2,300 /\n€2,000 /\n£1,800 / 2,150 CHF\nPaid in Full\nPaid in Full\nBeHealthy Core 3: Paid in Full\nPaid in Full\nUp to 7 days\n$3,100 /\n€2,800 /\n£2,500 / 3,000 CHF\n$2,300 /\n€2,000 /\n£1,800 / 2,150 CHF\nPaid in Full\nPaid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -736,7 +736,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p4_table2_row3",
-    "content": "Assistance Services: Global Intelligence Centre\nBeHealthy Core 1: BeHealthy Core 1\nBeHealthy Core 2: BeHealthy Core 2\nBeHealthy Core 3: BeHealthy Core 3",
+    "text": "Assistance Services: Global Intelligence Centre\nBeHealthy Core 1: BeHealthy Core 1\nBeHealthy Core 2: BeHealthy Core 2\nBeHealthy Core 3: BeHealthy Core 3",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -751,7 +751,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p4_table2_row4",
-    "content": "Assistance Services: Global Security Intelligence & Medical Intelligence Reports\nThe Global Intelligence Centre contains real-time security and healthcare information for 200+\nterritories and countries and 350+ major cities around the globe to help travellers prepare before\nvisiting an international destination.\nBeHealthy Core 1: Included\nBeHealthy Core 2: Included\nBeHealthy Core 3: Included",
+    "text": "Assistance Services: Global Security Intelligence & Medical Intelligence Reports\nThe Global Intelligence Centre contains real-time security and healthcare information for 200+\nterritories and countries and 350+ major cities around the globe to help travellers prepare before\nvisiting an international destination.\nBeHealthy Core 1: Included\nBeHealthy Core 2: Included\nBeHealthy Core 3: Included",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -766,7 +766,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row1",
-    "content": "Deductible Options: Nil\nPremium Discount: 0%",
+    "text": "Deductible Options: Nil\nPremium Discount: 0%",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -781,7 +781,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row2",
-    "content": "Deductible Options: $150 / €125 / £110 / 135 CHF\nPremium Discount: 6%",
+    "text": "Deductible Options: $150 / €125 / £110 / 135 CHF\nPremium Discount: 6%",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -796,7 +796,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row3",
-    "content": "Deductible Options: $300 / €250 / £225 / 270 CHF\nPremium Discount: 11.5%",
+    "text": "Deductible Options: $300 / €250 / £225 / 270 CHF\nPremium Discount: 11.5%",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -811,7 +811,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row4",
-    "content": "Deductible Options: $800 / €675 / £600 / 725 CHF\nPremium Discount: 25%",
+    "text": "Deductible Options: $800 / €675 / £600 / 725 CHF\nPremium Discount: 25%",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -826,7 +826,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row6",
-    "content": "Deductible Options: Out-patient Healthcare Benefits\nPremium Discount: BeHealthy Outcare 1",
+    "text": "Deductible Options: Out-patient Healthcare Benefits\nPremium Discount: BeHealthy Outcare 1",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -841,7 +841,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row7",
-    "content": "Deductible Options: Outcare Plan Limit\nApplies per insured member, per insurance year.\nPremium Discount: $7,500 /\n€6,500 /\n£6,000 / 7,000 CHF",
+    "text": "Deductible Options: Outcare Plan Limit\nApplies per insured member, per insurance year.\nPremium Discount: $7,500 /\n€6,500 /\n£6,000 / 7,000 CHF",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -856,7 +856,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row8",
-    "content": "Deductible Options: Medical Practitioner Fees & Specialist Fees",
+    "text": "Deductible Options: Medical Practitioner Fees & Specialist Fees",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -871,7 +871,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row9",
-    "content": "Deductible Options: Prescription Drugs\nOut-patient prescriptions relating to Oncology or HIV/AIDS will be captured under the Oncology\nor HIV/AIDS Core plan benefits.",
+    "text": "Deductible Options: Prescription Drugs\nOut-patient prescriptions relating to Oncology or HIV/AIDS will be captured under the Oncology\nor HIV/AIDS Core plan benefits.",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -886,7 +886,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row10",
-    "content": "Deductible Options: Non-Surgical & Minor Surgical Procedures (ex. Dialysis)\nPremium Discount: Up to the outcare plan",
+    "text": "Deductible Options: Non-Surgical & Minor Surgical Procedures (ex. Dialysis)\nPremium Discount: Up to the outcare plan",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -901,7 +901,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row11",
-    "content": "Deductible Options: Lab / Diagnostic / Pathology\nPremium Discount: limit",
+    "text": "Deductible Options: Lab / Diagnostic / Pathology\nPremium Discount: limit",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -916,7 +916,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row12",
-    "content": "Deductible Options: Durable Medical Equipment (DME) & Prosthetics",
+    "text": "Deductible Options: Durable Medical Equipment (DME) & Prosthetics",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -931,7 +931,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row13",
-    "content": "Deductible Options: Hormone Replacement Therapy (HRT)\nIncludes Menopausal Hormone Therapy.",
+    "text": "Deductible Options: Hormone Replacement Therapy (HRT)\nIncludes Menopausal Hormone Therapy.",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -946,7 +946,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row14",
-    "content": "Deductible Options: Out-patient Rehabilitation\nIf treatment is required after an acute medical condition and or surgical treatment it must start\nwithin 14 days of surgery and/or discharge.\nPremium Discount: 5 visits, up to the outcare\nplan limit",
+    "text": "Deductible Options: Out-patient Rehabilitation\nIf treatment is required after an acute medical condition and or surgical treatment it must start\nwithin 14 days of surgery and/or discharge.\nPremium Discount: 5 visits, up to the outcare\nplan limit",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -961,7 +961,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row15",
-    "content": "Deductible Options: Speech & Occupational Therapy\nIncludes occupational therapy, restorative and development speech therapy and/or fees.\nPremium Discount: Not covered",
+    "text": "Deductible Options: Speech & Occupational Therapy\nIncludes occupational therapy, restorative and development speech therapy and/or fees.\nPremium Discount: Not covered",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -976,7 +976,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row16",
-    "content": "Deductible Options: Alternative & Complementary Therapies\nIncludes Acupuncture, Acupressure, Ayurveda, Chiropractic, Osteopathy, Podiatry and\nTraditional Chinese Medicine.\nPremium Discount: Not covered",
+    "text": "Deductible Options: Alternative & Complementary Therapies\nIncludes Acupuncture, Acupressure, Ayurveda, Chiropractic, Osteopathy, Podiatry and\nTraditional Chinese Medicine.\nPremium Discount: Not covered",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -991,7 +991,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row17",
-    "content": "Deductible Options: Emergency Room Out-patient Treatment\nTreatment received in an emergency room or in a casualty ward within 24- hours of an accident or\nsudden illness where there is no need for you to occupy a bed.\nPremium Discount: $1,100 /\n€1,000 /\n£900 / 1,080 CHF, up to\nthe outcare plan limit",
+    "text": "Deductible Options: Emergency Room Out-patient Treatment\nTreatment received in an emergency room or in a casualty ward within 24- hours of an accident or\nsudden illness where there is no need for you to occupy a bed.\nPremium Discount: $1,100 /\n€1,000 /\n£900 / 1,080 CHF, up to\nthe outcare plan limit",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1006,7 +1006,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row18",
-    "content": "Deductible Options: Physiotherapy\nInitial 5 sessions non prescribed.\nVirtual Visits\nDigital healthcare and telemedicine service that facilitates a consultation with a doctor through a\ndesktop or mobile device.\nPremium Discount: 5 visits, up to the outcare\nplan limit\nPaid in Full",
+    "text": "Deductible Options: Physiotherapy\nInitial 5 sessions non prescribed.\nVirtual Visits\nDigital healthcare and telemedicine service that facilitates a consultation with a doctor through a\ndesktop or mobile device.\nPremium Discount: 5 visits, up to the outcare\nplan limit\nPaid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1021,7 +1021,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p5_table1_row19",
-    "content": "Deductible Options: Health Management Programme\nPersonal support for managing chronic health conditions. The programme focuses on medication\nand dietary management, DME supplies assistance, specialty provider support and action\nplanning for urgent needs.\nPremium Discount: Included",
+    "text": "Deductible Options: Health Management Programme\nPersonal support for managing chronic health conditions. The programme focuses on medication\nand dietary management, DME supplies assistance, specialty provider support and action\nplanning for urgent needs.\nPremium Discount: Included",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1036,7 +1036,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table1_row1",
-    "content": "Infertility\n18 month waiting period applies.: Psychiatry & Psychotherapy\n18 month waiting period applies.\nNot covered: Not covered\nNot covered: 20 visits, up to the outcare\nplan limit\n50% Refund\n$10,000 /\n€9,000 / £8,000 / 9,700\nCHF\nlifetime limit: 30 visits",
+    "text": "Infertility\n18 month waiting period applies.: Psychiatry & Psychotherapy\n18 month waiting period applies.\nNot covered: Not covered\nNot covered: 20 visits, up to the outcare\nplan limit\n50% Refund\n$10,000 /\n€9,000 / £8,000 / 9,700\nCHF\nlifetime limit: 30 visits",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1051,7 +1051,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table1_row2",
-    "content": "Infertility\n18 month waiting period applies.: Well Baby Cover\nOut-patient and day-patient treatment.\nCovered under the child’s own policy only and up until the child’s second birthday. This benefit\nincludes physical examinations, sensory screening, neuropsychiatric evaluation, development\nscreening, as well as hereditary and metabolic screening and routine immunisations.\nNot covered: 70% Refund, up to the\noutcare plan limit\nNot covered: Up to the outcare plan\nlimit\n50% Refund\n$10,000 /\n€9,000 / £8,000 / 9,700\nCHF\nlifetime limit: Paid in Full",
+    "text": "Infertility\n18 month waiting period applies.: Well Baby Cover\nOut-patient and day-patient treatment.\nCovered under the child’s own policy only and up until the child’s second birthday. This benefit\nincludes physical examinations, sensory screening, neuropsychiatric evaluation, development\nscreening, as well as hereditary and metabolic screening and routine immunisations.\nNot covered: 70% Refund, up to the\noutcare plan limit\nNot covered: Up to the outcare plan\nlimit\n50% Refund\n$10,000 /\n€9,000 / £8,000 / 9,700\nCHF\nlifetime limit: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1066,7 +1066,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table1_row3",
-    "content": "Infertility\n18 month waiting period applies.: Vision/Optical\nIncludes one eye examination and hardware purchase per year.\nNot covered: Not covered\nNot covered: $200 / €175 /\n£160 /190 CHF, up to the\noutcare plan limit\n50% Refund\n$10,000 /\n€9,000 / £8,000 / 9,700\nCHF\nlifetime limit: $300 / €270 /\n£245 / 290 CHF",
+    "text": "Infertility\n18 month waiting period applies.: Vision/Optical\nIncludes one eye examination and hardware purchase per year.\nNot covered: Not covered\nNot covered: $200 / €175 /\n£160 /190 CHF, up to the\noutcare plan limit\n50% Refund\n$10,000 /\n€9,000 / £8,000 / 9,700\nCHF\nlifetime limit: $300 / €270 /\n£245 / 290 CHF",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1081,7 +1081,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table1_row4",
-    "content": "Infertility\n18 month waiting period applies.: Out-patient Dental Treatment Following an Accident\nNot covered: Not covered\nNot covered: $950 / €850 /\n£780 / 920 CHF, up to the\noutcare plan limit\n50% Refund\n$10,000 /\n€9,000 / £8,000 / 9,700\nCHF\nlifetime limit: $950 / €850 /\n£780 / 920 CHF",
+    "text": "Infertility\n18 month waiting period applies.: Out-patient Dental Treatment Following an Accident\nNot covered: Not covered\nNot covered: $950 / €850 /\n£780 / 920 CHF, up to the\noutcare plan limit\n50% Refund\n$10,000 /\n€9,000 / £8,000 / 9,700\nCHF\nlifetime limit: $950 / €850 /\n£780 / 920 CHF",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1096,7 +1096,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table1_row5",
-    "content": "Infertility\n18 month waiting period applies.: Prescribed Over-the-Counter Drugs\nPrescription is not legally required however the drugs must be prescribed by a medical\npractitioner.\nNot covered: Not covered\nNot covered: $45 / €40 /\n£37 / 43 CHF, up to the\noutcare plan limit\n50% Refund\n$10,000 /\n€9,000 / £8,000 / 9,700\nCHF\nlifetime limit: $55 / €50 /\n£45 / 54 CHF",
+    "text": "Infertility\n18 month waiting period applies.: Prescribed Over-the-Counter Drugs\nPrescription is not legally required however the drugs must be prescribed by a medical\npractitioner.\nNot covered: Not covered\nNot covered: $45 / €40 /\n£37 / 43 CHF, up to the\noutcare plan limit\n50% Refund\n$10,000 /\n€9,000 / £8,000 / 9,700\nCHF\nlifetime limit: $55 / €50 /\n£45 / 54 CHF",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1111,7 +1111,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table2_row1",
-    "content": "Dental Benefits: Dencare Plan Limit\nApplies per insured member, per insurance year\nBeHealthy Dencare 1: $1,000 /\n€900 /\n£820 / 970 CHF\nBeHealthy Dencare 2: $2,500 /\n€2,200 /\n£2,000 / 2,375 CHF\nBeHealthy Dencare 3: $4,500 /\n€4,000 /\n£3,650 / 4,300 CHF",
+    "text": "Dental Benefits: Dencare Plan Limit\nApplies per insured member, per insurance year\nBeHealthy Dencare 1: $1,000 /\n€900 /\n£820 / 970 CHF\nBeHealthy Dencare 2: $2,500 /\n€2,200 /\n£2,000 / 2,375 CHF\nBeHealthy Dencare 3: $4,500 /\n€4,000 /\n£3,650 / 4,300 CHF",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1126,7 +1126,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table2_row2",
-    "content": "Dental Benefits: Dental Treatment\nBeHealthy Dencare 1: 80% Refund\nBeHealthy Dencare 2: 80% Refund\nBeHealthy Dencare 3: Paid in Full",
+    "text": "Dental Benefits: Dental Treatment\nBeHealthy Dencare 1: 80% Refund\nBeHealthy Dencare 2: 80% Refund\nBeHealthy Dencare 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1141,7 +1141,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table2_row3",
-    "content": "Dental Benefits: Dental Surgery\nBeHealthy Dencare 1: 80% Refund\nBeHealthy Dencare 2: 80% Refund\nBeHealthy Dencare 3: Paid in Full",
+    "text": "Dental Benefits: Dental Surgery\nBeHealthy Dencare 1: 80% Refund\nBeHealthy Dencare 2: 80% Refund\nBeHealthy Dencare 3: Paid in Full",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1156,7 +1156,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table2_row4",
-    "content": "Dental Benefits: Periodontics\nBeHealthy Dencare 1: Not covered\nBeHealthy Dencare 2: 80% Refund\nBeHealthy Dencare 3: 80% Refund",
+    "text": "Dental Benefits: Periodontics\nBeHealthy Dencare 1: Not covered\nBeHealthy Dencare 2: 80% Refund\nBeHealthy Dencare 3: 80% Refund",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1171,7 +1171,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table2_row5",
-    "content": "Dental Benefits: Dental Prostheses\nBeHealthy Dencare 1: Not covered\nBeHealthy Dencare 2: 50% Refund\nBeHealthy Dencare 3: 65% Refund",
+    "text": "Dental Benefits: Dental Prostheses\nBeHealthy Dencare 1: Not covered\nBeHealthy Dencare 2: 50% Refund\nBeHealthy Dencare 3: 65% Refund",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1186,7 +1186,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table2_row6",
-    "content": "Dental Benefits: Orthodontic Treatments\n10 month waiting period applies.\nOrthodontic Treatments for Dependent Children Under the Age of 18\n10 month waiting period applies.\nBeHealthy Dencare 1: Not covered\nNot covered\nBeHealthy Dencare 2: 50% Refund\n50% Refund up to\n$1,250 /\n€1,100 /\n£1,000 /\n1,200 CHF\nBeHealthy Dencare 3: 65% Refund\n65% Refund up to\n$2,300 /\n€2,000 /\n£1,850 /\n2,150 CHF",
+    "text": "Dental Benefits: Orthodontic Treatments\n10 month waiting period applies.\nOrthodontic Treatments for Dependent Children Under the Age of 18\n10 month waiting period applies.\nBeHealthy Dencare 1: Not covered\nNot covered\nBeHealthy Dencare 2: 50% Refund\n50% Refund up to\n$1,250 /\n€1,100 /\n£1,000 /\n1,200 CHF\nBeHealthy Dencare 3: 65% Refund\n65% Refund up to\n$2,300 /\n€2,000 /\n£1,850 /\n2,150 CHF",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1201,7 +1201,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table2_row8",
-    "content": "Dental Benefits: Area of Cover\nBeHealthy Dencare 1: BeHealthy Core 1\nBeHealthy Dencare 2: BeHealthy Core 2\nBeHealthy Dencare 3: BeHealthy Core 3",
+    "text": "Dental Benefits: Area of Cover\nBeHealthy Dencare 1: BeHealthy Core 1\nBeHealthy Dencare 2: BeHealthy Core 2\nBeHealthy Dencare 3: BeHealthy Core 3",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1216,7 +1216,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table2_row9",
-    "content": "Dental Benefits: Worldwide\nBeHealthy Dencare 1: In the U.S. In- Network\naccess through Choice\nPlus Network, with over\n1.6M+ Providers.\nNo Out-of- Network access\nBeHealthy Dencare 2: In the U.S. In- Network\naccess through Choice\nPlus Network, with over\n1.6M+ Providers.\nNo Out-of- Network access\nBeHealthy Dencare 3: In the U.S. In- Network\naccess through Choice\nPlus Network, with over\n1.6M+ Providers.\n80% refund for Out-of-\nNetwork services",
+    "text": "Dental Benefits: Worldwide\nBeHealthy Dencare 1: In the U.S. In- Network\naccess through Choice\nPlus Network, with over\n1.6M+ Providers.\nNo Out-of- Network access\nBeHealthy Dencare 2: In the U.S. In- Network\naccess through Choice\nPlus Network, with over\n1.6M+ Providers.\nNo Out-of- Network access\nBeHealthy Dencare 3: In the U.S. In- Network\naccess through Choice\nPlus Network, with over\n1.6M+ Providers.\n80% refund for Out-of-\nNetwork services",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
@@ -1231,7 +1231,7 @@
   },
   {
     "chunk_id": "SAL-EU-1800500-12 BeHealthy SOB - Jan2024_p6_table2_row10",
-    "content": "Dental Benefits: Worldwide, Excluding U.S.",
+    "text": "Dental Benefits: Worldwide, Excluding U.S.",
     "metadata": {
       "insurer": "UnitedHealthcare Global",
       "document_group": "guide",
