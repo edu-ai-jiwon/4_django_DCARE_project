@@ -116,6 +116,40 @@ Dacare_LLM/
 └── README.md
 ```
 
+
+---  
+
+## utils.py 역할
+
+**`utils/language.py`**
+
+노드 파일 안에 언어 감지 로직을 직접 쓰면 `analyze_node.py`가 너무 길어지고, 나중에 감지 방식을 바꾸려면 노드 파일을 건드려야 합니다. 언어 감지는 `analyze_node` 말고도 다른 곳에서 필요할 수 있어서 분리했습니다. `detect_language(text)` 하나만 호출하면 되게요.
+
+---
+
+**`utils/safety.py`**
+
+`check_blocked(text)` 하나짜리 함수인데, 이걸 `analyze_node.py` 안에 넣으면 블랙리스트 키워드 배열이나 LLM 프롬프트가 노드 파일에 뒤섞입니다. 안전 필터는 나중에 키워드 추가하거나 규칙 바꿀 일이 많아서 따로 관리하는 게 편합니다.
+
+---
+
+**`utils/currency.py`**
+
+`calculate_node.py`가 환율 API를 직접 호출하면 API 키 관리, 캐싱, fallback 환율, 본인부담금 계산 수식이 전부 노드 파일 하나에 들어갑니다. `calculate_node`는 "언제 계산할지"만 결정하고, "어떻게 계산할지"는 여기서 담당하게 분리했습니다. `convert_to_krw(amount, currency)`, `calculate_copay(...)` 두 함수가 핵심이고 환율 캐시도 여기서만 관리합니다.
+
+---
+
+**`utils/comparison.py`**
+
+`within_node`(①)와 `compare_node`(②) 둘 다 비교표를 만드는데, 프롬프트 조립 방식이 같습니다. 이걸 각 노드에 중복으로 쓰면 나중에 비교 프롬프트 형식 바꿀 때 두 파일을 동시에 수정해야 합니다. `build_comparison_prompt()` 하나를 양쪽에서 공유하게 뺐습니다.
+
+---
+
+한 줄로 정리하면, **노드 파일은 "흐름 제어"만, 실제 로직은 utils에서 관리**하는 원칙입니다. 노드가 길어지면 흐름이 안 보이고, 로직이 여러 노드에 중복되면 수정할 때 놓치는 곳이 생깁니다.
+
+
+
+
 ## 시작하기
 
 ```bash
