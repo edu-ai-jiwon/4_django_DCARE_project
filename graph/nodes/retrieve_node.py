@@ -13,14 +13,14 @@ from __future__ import annotations
 
 import chromadb
 from chromadb.config import Settings
+from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction as STEmbedding
 
 from utils.schemas import InsuranceState
 
-# ──────────────────────────────────────────────────────────────
-# 상수
-# ──────────────────────────────────────────────────────────────
-VECTORDB_PATH = "./vectordb"
-DEFAULT_TOP_K = 5   # 기본 검색 결과 수
+VECTORDB_PATH   = "./vectordb"
+DEFAULT_TOP_K   = 5
+
+MULTILINGUAL_EF = STEmbedding(model_name="paraphrase-multilingual-mpnet-base-v2")
 
 
 # ──────────────────────────────────────────────────────────────
@@ -85,7 +85,7 @@ def query_collection(
             path     = VECTORDB_PATH,
             settings = Settings(anonymized_telemetry=False),
         )
-        collection = client.get_collection(collection_name)
+        collection = client.get_collection(collection_name, embedding_function=MULTILINGUAL_EF)
 
         # 메타데이터 필터 포함 여부에 따라 쿼리 분기
         query_kwargs: dict = {
