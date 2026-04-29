@@ -2,6 +2,8 @@
 # 사용법: python scripts/ingest_all.py uhcg cigna
 #         python scripts/ingest_all.py nhis
 import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 AVAILABLE = ["uhcg", "cigna", "tricare", "msh_china", "nhis"]
 

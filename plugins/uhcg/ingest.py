@@ -1,5 +1,5 @@
 # plugins/uhcg/ingest.py
-# UHC guide + claim PDFs → 청킹 → uhcg_plans 컬렉션 저장
+# UHC guide + claim PDFs > 청킹 > uhcg_plans 컬렉션 저장
 # 실행: python scripts/ingest_all.py uhcg
 from __future__ import annotations
 
@@ -23,7 +23,8 @@ COLLECTION_NAME = "uhcg_plans"
 MIN_CHUNK_CHARS = 50
 INSURER         = "uhcg"
 
-MULTILINGUAL_EF = STEmbedding(model_name="paraphrase-multilingual-mpnet-base-v2")
+MULTILINGUAL_EF = STEmbedding(model_name="BAAI/bge-m3"
+)
 
 
 # 공통 유틸리티
@@ -275,7 +276,7 @@ def run() -> None:
     print(f"\n[uhcg] 청킹 시작 → {COLLECTION_NAME}")
     all_texts, all_metas, all_ids = [], [], []
 
-    # guide 파일 디스패치 (키워드 → 처리 함수, 중복 방지용 타입 키)
+    # guide 파일 디스패치 (키워드 -> 처리 함수, 중복 방지용 타입 키)
     dispatch = [
         ("Welcome Guide",               _welcome_chunks,  "welcome"),
         ("BeHealthy SOB",               _sob_chunks,      "sob"),
